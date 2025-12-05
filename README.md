@@ -10,4 +10,4 @@ Fires: https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh/resou
 Crime: https://data.wprdc.org/dataset/monthly-criminal-activity-dashboard/resource/bd41992a-987a-4cca-8798-fbe1cd946b07
 Parking: https://data.wprdc.org/dataset/pittsburgh-parking-authority-meter-areas/resource/c4571554-aaf1-4d02-9739-60a78875bb1d
 
-This project examines three datasets (Fire incidents, monthly criminal activity, parking meters in the city of Pittsburgh) to determine which neighborhood in Pittsburgh is the "best". For our project "best" was determined by which neighborhood is the safest, a fact examined in our datasets.
+This project examines three datasets (Fire incidents, monthly criminal activity, parking meters in the city of Pittsburgh) to determine which neighborhood in Pittsburgh is the "best". For our project "Best" was determined by which neighborhood is the safest, a fact examined in our datasets.
